@@ -363,6 +363,12 @@ address p{
 .contact{
     margin-top: 120px;
     margin-right: 150px;
+    
+}
+
+.contact img{
+    text-align: center;
+    margin-right: 10px;
 }
 .link{
     margin-top: 10px;
