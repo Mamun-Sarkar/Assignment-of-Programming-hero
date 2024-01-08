@@ -367,14 +367,21 @@ address p{
 }
 
 .contact img{
-    text-align: center;
-    margin-right: 10px;
+    height: 24px;
+    width: 24px;
+   margin-right: 10px;
+    
+}
+.number span{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
 }
 .link{
     margin-top: 10px;
 }
 .link a{
-    
+    line-height:40px ;
     text-decoration: none;
     color: white;
     font-size: 24px;
