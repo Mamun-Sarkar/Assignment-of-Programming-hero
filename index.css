@@ -185,12 +185,15 @@
     margin-top: 150px;
     position: relative;
 }
-
+.section-five--contents{
+    margin-top: 200px;
+}
 .section-five--content{
     font-size: 24px;
     font-weight: 500;
 }
 .section-five--head{
+    margin: 20px;
     font-size: 70px;
     font-weight: bold;
 }
@@ -208,23 +211,23 @@
     min-height: 600px;
 
 }
-.section-five--img1{
+.section-five--img-1{
     max-width: 100%;
     position: absolute;
     bottom: 0;
     left: 0;
 }
-.section-five--img2{
+.section-five--img-2{
     position: absolute;
     bottom: 24%;
     right: 0;
 }
-.section-five--img3{
+.section-five--img-3{
     position: absolute;
     bottom: 20px;
     left: 0;
 }
-.section-five--img4{
+.section-five--img-4{
     position: absolute;
     top: 40%;
 }
